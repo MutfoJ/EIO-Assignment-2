@@ -1,7 +1,7 @@
 # EIO Assignment 2: Market Power and Differentiated Goods
 
 **Authors:** Dragos Florin Vasile & Wong Hei Wong  
-**Course:** Empirical Industrial Organization, TSE (M2)  
+**Course:** Empirical Industrial Organization, TSE (M1)  
 **Date:** March 2026
 
 ## Overview
